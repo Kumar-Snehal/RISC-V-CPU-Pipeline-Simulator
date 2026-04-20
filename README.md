@@ -3,6 +3,6 @@ Made as part of my Computer Organisation &amp; Architecture course, to learn and
 <br>
 Contains 3 classes:
 <br>
-1.Assembler<br>
-2.PipeLineStall<br>
-3.PipeLineOperandForwarding
+1. Assembler<br>
+2. PipeLineStall<br>
+3. PipeLineOperandForwarding
